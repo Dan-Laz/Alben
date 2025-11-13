@@ -1,4 +1,6 @@
 # Alben
+<img src="img/icon.png" alt="icon" width="100">
+
 
 ## Tagline
 Explore the world! without getting lost.
