@@ -50,18 +50,18 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 ![usecase_img](img/usecase.svg)
 
 ## Tabella di benchmarking
-| Funzionalità | Importanza | AlpenOSM | OsmAnd | AllTrails | Strava | Gaia GPS | Organic Maps | komoot | Outdooractive |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Dati OSM aggiornati | alta | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ❌ |
-| Mappa Offline | molto alta | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ❌ | ❌ |
-| Geolocalizzazione | alta | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Velocità/Fluidità | molto alta | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ |
-| Design Concluso | molto alta | ❌ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ❌ | ❌ |
-| Mappe 3D/Satellitari | alta | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ✔️ | ✔️ |
-| Route Planning | alta | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Registrazione Attività | alta | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ |
-| Database Itinerari | alta | ❌ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ |
-| Import/Export GPX | media | ❌ | ✔️ | ✔️ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Navigazione Turn-by-Turn | media | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ | ✔️ | ✔️ |
-| Community/Social | bassa | ❌ | ✔️ | ✔️ | ✔️ | ❌ | ❌ | ✔️ | ✔️ |
-| Informazioni Meteo | bassa | ❌ | ❌ | ❌ | ❌ | ✔️ | ❌ | ❌ | ❌ |
+| Funzionalità | Importanza | Alben | OsmAnd | AllTrails | Strava | Gaia GPS | Organic Maps | Mapy.com | komoot | Outdooractive |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Dati OSM aggiornati | alta | ✓ | ✓ | ~~ | ~~ | ✓ | ✓ | ~~ | ✓ | ~~ |
+| Mappa Offline | molto alta | ✓ | ✓ | ~~ | ~~ | ✓ | ✓ | ✓ | ~~ | ~~ |
+| Geolocalizzazione | alta | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Velocità/Fluidità | molto alta | ✓ | ~~ | ✓ | ✓ | ~~ | ✓ | ✓ | ✓ | ~~ |
+| Design Conciso | molto alta | ✓ | ~~ | ✓ | ✓ | ~~ | ✓ | ✓ | ~~ | ~~ |
+| Mappe 3D/Satellitari | alta | ✓ | ~~ | ~~ | ~~ | ✓ | ~~ | ~~ | ✓ | ✓ |
+| Route Planning | alta | ✓ | ✓ | ✓ | ~~ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Registrazione Attività | alta | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Database Itinerari | alta | ✓ | ~~ | ✓ | ✓ | ✓ | ~~ | ✓ | ✓ | ✓ |
+| Import/Export GPX | media | ~~ | ✓ | ✓ | ~~ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Navigazione Turn-by-Turn | media | ✓ | ✓ | ~~ | ~~ | ✓ | ✓ | ✓ | ✓ | ~~ |
+| Community/Social | bassa | ~~ | ~~ | ✓ | ✓ | ~~ | ~~ | ~~ | ✓ | ✓ |
+| Informazioni Meteo | bassa | ~~ | ~~ | ~~ | ~~ | ✓ | ~~ | ~~ | ~~ | ~~ |
