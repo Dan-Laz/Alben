@@ -49,6 +49,18 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 ## Use case diagram
 ![usecase_img](img/usecase.svg)
 
+| Utente | Funzionalità | Al fine di... |
+| :--- | :--- | :--- |
+| utente iscritto pagante | Utilizzo offline | Consultare le mappe anche in zone montuose senza copertura di rete mobile. |
+| utente iscritto non pagante | Visualizzazione mappa 2D | Avere una visione planimetrica chiara e classica del sentiero e dei punti di riferimento. |
+| utente iscritto pagante | Visualizzazione mappa 3D | Comprendere meglio l'altimetria, i dislivelli e la conformazione del terreno. |
+| utente iscritto pagante | Route planning | Pianificare un itinerario personalizzato prima di iniziare l'escursione. |
+| utente iscritto pagante | Geolocalizzazione | Conoscere la propria posizione esatta sulla mappa in tempo reale per non smarrirsi. |
+| utente iscritto pagante | Registrazione route | Tracciare il percorso effettuato (distanza, tempo, dislivello) durante l'attività. |
+| utente iscritto pagante | Pubblicazione route | Condividere i propri percorsi completati con la community o con gli amici. |
+| utente iscritto pagante | Salvataggio route | Archiviare i percorsi preferiti o pianificati per un accesso rapido futuro. |
+>gli utenti iscritti a questo sito sono tutti escursionisti / alpinisti.
+
 ## Tabella di benchmarking
 | Funzionalità | Importanza | Alben | OsmAnd | AllTrails | Strava | Gaia GPS | Organic Maps | Mapy.com | komoot | Outdooractive |
 |---|---|---|---|---|---|---|---|---|---|---|
