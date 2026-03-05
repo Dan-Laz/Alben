@@ -77,3 +77,5 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 | Navigazione Turn-by-Turn | media | ✓ | ✓ | ~~ | ~~ | ✓ | ✓ | ✓ | ✓ | ~~ |
 | Community/Social | bassa | ~~ | ~~ | ✓ | ✓ | ~~ | ~~ | ~~ | ✓ | ✓ |
 | Informazioni Meteo | bassa | ~~ | ~~ | ~~ | ~~ | ✓ | ~~ | ~~ | ~~ | ~~ |
+
+![elevator pitch](https://docs.google.com/presentation/d/1_Rk23vaAi0lo9_IDfXDIXErH7pHgOm6MjeZ9Jv0jMnQ/edit?usp=sharing)
