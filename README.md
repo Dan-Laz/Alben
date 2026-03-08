@@ -78,8 +78,8 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 | Community/Social | bassa | ~~ | ~~ | ✓ | ✓ | ~~ | ~~ | ~~ | ✓ | ✓ |
 | Informazioni Meteo | bassa | ~~ | ~~ | ~~ | ~~ | ✓ | ~~ | ~~ | ~~ | ~~ |
 
-![elevator pitch](https://docs.google.com/presentation/d/1_Rk23vaAi0lo9_IDfXDIXErH7pHgOm6MjeZ9Jv0jMnQ/edit?usp=sharing)
+[elevator pitch](https://docs.google.com/presentation/d/1_Rk23vaAi0lo9_IDfXDIXErH7pHgOm6MjeZ9Jv0jMnQ/edit?usp=sharing)
 
 ![gantt](img/2026-03-05-181144_hyprshot.png)
 
-![lovable preview](https://id-preview--73478678-e942-4b8b-9767-d3af18a24b97.lovable.app/)
+[lovable preview](https://id-preview--73478678-e942-4b8b-9767-d3af18a24b97.lovable.app/)
