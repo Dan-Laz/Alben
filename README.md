@@ -1,6 +1,7 @@
 # Alben
 <img src="img/icon.png" alt="icon" width="100">
 
+[landing_page](https://dan-laz.github.io/Alben/)
 
 ## Tagline
 Explore the world! without getting lost.
@@ -84,4 +85,4 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 
 ![gantt](img/2026-03-05-181144_hyprshot.png)
 
-[lovable preview](https://id-preview--73478678-e942-4b8b-9767-d3af18a24b97.lovable.app/)
+
