@@ -59,7 +59,6 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 | utente iscritto pagante | Registrazione route | Tracciare il percorso effettuato (distanza, tempo, dislivello) durante l'attività. |
 | utente iscritto pagante | Pubblicazione route | Condividere i propri percorsi completati con la community o con gli amici. |
 | utente iscritto pagante | Salvataggio route | Archiviare i percorsi preferiti o pianificati per un accesso rapido futuro. |
->gli utenti iscritti a questo sito sono tutti escursionisti / alpinisti.
 
 ## Tabella di benchmarking
 | Funzionalità | Importanza | Alben | OsmAnd | AllTrails | Strava | Gaia GPS | Organic Maps | Mapy.com | komoot | Outdooractive |
