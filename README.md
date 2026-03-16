@@ -1,5 +1,4 @@
-# Alben
-<img src="img/icon.png" alt="icon" width="100">
+<img src="img/alben_icon.svg" alt="icon" width="500">
 
 [landing_page](https://dan-laz.github.io/Alben/)
 
@@ -81,8 +80,8 @@ L'app elimina il rischio di perdersi in montagna, causato anche dalla poca segna
 
 [elevator pitch](https://docs.google.com/presentation/d/1_Rk23vaAi0lo9_IDfXDIXErH7pHgOm6MjeZ9Jv0jMnQ/edit?usp=sharing)
 
-![wbs](img/wbs.png)
+![wbs](img/alben_wbs_vertical.svg)
 
-![gantt](img/2026-03-05-181144_hyprshot.png)
+![gantt](img/alben_gantt.svg)
 
 
